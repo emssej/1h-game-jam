@@ -1,0 +1,4 @@
+#+BEGIN_SRC sh
+apt install libsdl2-dev libcairo2 build-essential
+make -j<cores>
+#+END_SRC
