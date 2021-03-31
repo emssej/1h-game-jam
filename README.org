@@ -1,5 +1,5 @@
 * Compilation
 #+BEGIN_SRC sh
-apt install libsdl2-dev libcairo2 build-essential
+apt install libsdl2-dev libcairo2 build-essential pkg-config
 make -j<cores>
 #+END_SRC
